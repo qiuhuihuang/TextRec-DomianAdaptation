@@ -1,5 +1,3 @@
-论文学习
-=======
-文字识别+domain adaptation
--------------
-[Hqh 的github](https://github.com/qiuhuihuang)
+#论文学习
+##文字识别+domain adaptation
+`CVPR` 论文
