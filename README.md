@@ -4,4 +4,4 @@
 
 `AAAI2020` [Multi-Source Domain Adaptation for Text Classification via DistanceNet-Bandits](https://arxiv.org/pdf/2001.04362.pdf)
            
-           [**视频**](https://www.youtube.com/watch?v=6JjVPOOcpt4)
+           [视频](https://www.youtube.com/watch?v=6JjVPOOcpt4)
